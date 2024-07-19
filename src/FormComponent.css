@@ -1,0 +1,64 @@
+/* FormComponent.css */
+body{
+    margin-top:20px ;
+    background-color: bisque;
+
+}
+.form-container {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 5%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: rgb(189, 156, 117);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-group select {
+    height: 38px; /* Adjust height as needed */
+  }
+  
+  .form-group input[type="url"] {
+    font-family: Arial, sans-serif; /* Ensure monospace for URL input */
+  }
+  
+  .form-group input[type="submit"] {
+    background-color:rgb(202, 139, 61);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .form-group input[type="submit"]:hover {
+    background-color:rgb(202, 150, 87);
+  }
+  
+  span{
+    font-size: 12px;
+  }
