@@ -1,3 +1,13 @@
+# Features
+React Form: The form collects the following information:
+  Name
+  Email
+  Date
+  Campus Name
+  Writing Level and its screenshot
+  Speaking Level and its screenshot
+# Data Storage: Upon submission, the data is stored in a Google Sheet for easy tracking and management. Access the Google Sheet here(https://docs.google.com/spreadsheets/d/1aGLZLG6FR7T_phIORmeeWgDBeZP4lezbHi83B582Pro/edit?usp=sharing).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
