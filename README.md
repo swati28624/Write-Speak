@@ -1,3 +1,7 @@
+# React Form Submission for Student Writing and Speaking Levels
+# Overview
+This project was created as part of a hackathon held every Saturday. The goal was to build a React form that allows users to submit the writing and speaking levels of students. The data collected through this form will be stored in a Google Sheet to assist Culture Associates (CAs) and English Counsellors (ECs) in tracking and managing student progress.
+
 # Features
 React Form: The form collects the following information:
   Name
@@ -6,7 +10,7 @@ React Form: The form collects the following information:
   Campus Name
   Writing Level and its screenshot
   Speaking Level and its screenshot
-# Data Storage: Upon submission, the data is stored in a Google Sheet for easy tracking and management. Access the Google Sheet here(https://docs.google.com/spreadsheets/d/1aGLZLG6FR7T_phIORmeeWgDBeZP4lezbHi83B582Pro/edit?usp=sharing).
+  **Data Storage**: Upon submission, the data is stored in a Google Sheet for easy tracking and management. Access the Google Sheet here(https://docs.google.com/spreadsheets/d/1aGLZLG6FR7T_phIORmeeWgDBeZP4lezbHi83B582Pro/edit?usp=sharing).
 
 # Getting Started with Create React App
 
